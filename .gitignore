@@ -1,0 +1,9 @@
+*.bak
+*.backup
+*.log
+.env
+.env.*
+*.pem
+*.key
+backups/
+.gitignore.bak
