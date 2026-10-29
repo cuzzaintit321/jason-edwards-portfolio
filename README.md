@@ -1,6 +1,6 @@
 # Jason Edwards | IT & Linux Portfolio
 
-![Portfolio](jason-edwards.png)
+![Portfolio](portfolio-cover.png)
 
 ## About
 
